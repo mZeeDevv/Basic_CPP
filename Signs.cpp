@@ -1,5 +1,5 @@
 //Program written to find out if number is +ve / -ve / Neutral.
-//Program written by Hamza Shaukat Reg no. 4629-Foc-BSCS-B
+//Program written by Hamza Shaukat 
 //Dated :- 10 March 2023
 
 #include <iostream>
